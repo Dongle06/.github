@@ -24,6 +24,11 @@ https://youtu.be/R2qC4EqBpCc
 |Backend   |AI/DevOps|Frontend   |AI   |
 ```
 
+|맹수연|김윤지|안예린|이진경|
+|---|---|---|---|
+|Backend|AI/DevOps|Frontend|AI|
+
+
 ## Poster
 ![Dongle](https://user-images.githubusercontent.com/70802352/170505471-bd22a64a-8fb9-4d99-9e58-88d80ea8a548.jpg)
 
