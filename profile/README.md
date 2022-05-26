@@ -18,9 +18,11 @@ https://youtu.be/R2qC4EqBpCc
 반환된 결과를 바탕으로 동화가 진행되고 중간 종료 시, 데이터베이스에 종료 시 페이지 정보를 저장합니다.
 
 ## Contributor
+```
 |맹수연          |김윤지     |안예린           |이진경            |
 |---|---|---|---|---|
 |Backend   |AI/DevOps|Frontend   |AI   |
+```
 
 ## Poster
 ![Dongle](https://user-images.githubusercontent.com/70802352/170505471-bd22a64a-8fb9-4d99-9e58-88d80ea8a548.jpg)
