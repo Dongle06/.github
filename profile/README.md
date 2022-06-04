@@ -6,7 +6,8 @@
 <br/>
 
 ## UI
-<img width="506" alt="image" src="https://user-images.githubusercontent.com/87087459/170505634-1731261d-6966-4ad2-9b78-9cdebdb35294.png">
+![](https://velog.velcdn.com/images/yeah7598/post/2ba6a0a7-2c4f-4e1e-b082-bf931e23004f/image.png)
+![](https://velog.velcdn.com/images/yeah7598/post/9349c29f-ac4b-4b82-870b-18466186b69d/image.png)
 https://youtu.be/R2qC4EqBpCc
 
 <br/>
