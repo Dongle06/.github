@@ -9,6 +9,7 @@
 ![](https://velog.velcdn.com/images/yeah7598/post/2ba6a0a7-2c4f-4e1e-b082-bf931e23004f/image.png)
 ![](https://velog.velcdn.com/images/yeah7598/post/9349c29f-ac4b-4b82-870b-18466186b69d/image.png)
 주요 장면 영상: https://drive.google.com/file/d/1vA_0iu8mc7oFnzggOMLFLDHkaWK4ORjZ/view?usp=sharing
+
 포스터 및 시연 영상: https://youtu.be/R2qC4EqBpCc
 
 <br/>
