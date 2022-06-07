@@ -1,4 +1,8 @@
 # 동글 (Team 조나단)
+동글 URL : https://dongle-books.web.app/
+
+사용설명서 : https://github.com/Dongle06/.github/blob/main/ReleaseNote.md
+
 
 ## Introduction
 아이들의 창의력 증진과 집중력 및 활동성 향상을 위한 모션, 표정, 음성 인식 기반 참여형 웹 동화 서비스
